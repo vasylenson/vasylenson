@@ -1,11 +1,8 @@
 ### Hi, I'm Marko :wave:
 
-I'm a Ukrainian student, programmer, and a general nerd currently living in the Netherlands.
+I'm a student, web-developer, and a programming enjoyer.
 
-- :mortar_board: I'm studying TCS at [University of Twente](https://github.com/utwente)
-- :book: I'm currently learnign Java :cry:, Haskell :brain:, and a lot of maths :nerd_face:
-- :hammer: Right now I'm working on Jacey, a simple JSON parser
-- :star_struck: I like coding simulations and generative art, making music and tweaking config files
-- :penguin: oh and BTW, I use Arch
-- :tv: you can check me out on [YouTube](https://www.youtube.com/channel/UCn0XTzGQxOMYrbU02k0rBYQ), [Dev.to](https://dev.to/vasylenson)
-- :mailbox: you can reach me on [Twitter](https://twitter.com/MarkoVasylenko), [Reddit](https://www.reddit.com/user/marioV03), or via [email](mailto:m.vasylenko.biz@gmail.com)
+- :mortar_board: study Computer Science at [University of Twente](https://github.com/utwente)
+- :book: also learning a bunch of maths, web, dev-ops, and other stuff
+- :star_struck: love exploring programming language design, distributed systems, and computer simulations
+- :building_construction: currently building [bit-vm](https://github.com/vasylenson/bit-vm), a toy virtual machine
